@@ -1,0 +1,18 @@
+/* indoorz */
+.logo-left {
+  display: block;
+  width: 22%;
+  float: left;
+}
+
+.logo-middle {
+  display: block;
+  float: left;
+  width: 58%;
+}
+
+.logo-right {
+  display: block;
+  float: left;
+  width: 20%;
+}
