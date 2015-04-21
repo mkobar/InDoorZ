@@ -3,7 +3,7 @@ InDoorZ
 
 For the 2015 NYU ABILITY Technology Hackathon
 
-Wayfinding for Buildings and Campus Settings 
+## Wayfinding for Buildings and Campus Settings 
 
 InDoorZ is a wayfinding app for indoor travel, especially useful for those with low vision or other disabilities. But it is able to be used by everyone.
 
@@ -13,7 +13,7 @@ Gus discussed the many challenges that a low vision or blind person has navigati
 
 And I just wanted to work on a geo-location app and have found indoor mapping a good challenge.
 
-[Demo Site](http://mkobar.github.io/InDoorZ/)   [Demo Mobile Site](http://mobiletest.me/htc_one_emulator/#u=http://mkobar.github.io/InDoorZ)
+[Demo Site](http://mkobar.github.io/InDoorZ/)  |  [Demo Mobile Site](http://mobiletest.me/htc_one_emulator/#u=http://mkobar.github.io/InDoorZ)
 
 [Slide Deck](http://www.slideshare.net/mkobar/indoorz)
 
