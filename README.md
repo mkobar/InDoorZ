@@ -13,7 +13,7 @@ Gus discussed the many challenges that a low vision or blind person has navigati
 
 And I just wanted to work on a geo-location app and have found indoor mapping a good challenge.
 
-[Demo Site](http://mkobar.github.io/InDoorZ/)  |  [Demo Mobile Site](http://mobiletest.me/htc_one_emulator/#u=http://mkobar.github.io/InDoorZ)
+[Demo Site](http://mkobar.github.io/InDoorZ/) 
 
 [Slide Deck](http://www.slideshare.net/mkobar/indoorz)
 
