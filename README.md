@@ -17,6 +17,9 @@ And I just wanted to work on a geo-location app and have found indoor mapping a 
 
 [Slide Deck](http://www.slideshare.net/mkobar/indoorz)
 
-Released under the [MIT License] (http://opensource.org/licenses/MIT)
-Copyright @ 2015 [RKOSecurity] (http://www.rkosecurity.com)
+## License
+
+Released under the [MIT License](http://opensource.org/licenses/MIT)
+
+Copyright @ 2015 [RKOSecurity](http://www.rkosecurity.com)
  
